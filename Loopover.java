@@ -1,16 +1,6 @@
 import java.util.List;
 import java.util.ArrayList;
 
-// Algorithm Procedure Outline
-/*
-    Below are examples of the different substates my algorithm moves through.
-    
-    DISCLAIMER:
-        The underlying prodcedure used to solve here is highly unoptimized.
-        This process could be optimized by removing sequences that cancel out from the final move sequence.
-        Additionally, more effective implementations of handling parities would remove redundancies.
-*/
-
 // Initial State:
 /*
     ? ? ? ? ? ?
